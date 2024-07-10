@@ -15,8 +15,9 @@
     text-decoration: none;
     margin-right: 20px;
     padding: 5px;
+    color: white;
 }
 
 .header nav a:hover{
-    background-color: floralwhite;
+    background-color: rgba(215, 151, 236, 0.767);
 }
